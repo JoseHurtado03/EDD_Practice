@@ -5,10 +5,11 @@
  */
 package spotify;
 
-public class Spotify {
+import Windows.WelcomeWindow;
 
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class Main {
+    public static void main(String[] args) {      
+        WelcomeWindow window = new WelcomeWindow();
+        window.setVisible(true);
     }
-    
 }

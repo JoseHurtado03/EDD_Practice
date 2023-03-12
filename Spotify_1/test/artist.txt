@@ -1,0 +1,24 @@
+BTS:
+Not Today,25824,2017,Coreano
+DNA,123654,2017,Coreano
+Fake Love,302984,2018,Coreano/
+Rawayana:
+HIGH,43082,2016,Español
+Vocabulario Basico,29485,2013,Español/
+Mike Posner:
+I Took a Pill in Ibiza,150576,2016,Ingles/
+Maroon V:
+Sugar,943454,2015,Ingles
+Payphone,42345,2012,Ingles/
+Mark Ronson:
+Uptown Funk,254392,2014,Ingles/
+Alex Ubago:
+Me muero por conocerte,83943,2001,Español
+Sigo Aqui,173864,2002,Español/
+Aditus:
+Algo Electrico,24454,1985,Español/
+Kate Bush:
+Running Up That Hill,64387,1985,Ingles/
+Avicii:
+Waiting For Love,274083,2014,Ingles
+Wake Me Up,374927,2013,Ingles/
